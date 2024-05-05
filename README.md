@@ -10,3 +10,9 @@ Yes, I would use a unit test to test the “message” feature of a messaging ap
 2) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
 
 Yes, I would use a unit test to test the “max message length” feature of a messaging application. Unit tests are good for checking individual parts of the app, such as checking if message length exceeds the max message length. By doing unit tests, we can try different message lengths to see if the app works properly.
+
+## GitHub Pages
+
+[Expose](https://azathotha.github.io/Lab5_Starter/expose.html)
+
+[Explore](https://azathotha.github.io/Lab5_Starter/explore.html)
