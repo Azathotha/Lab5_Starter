@@ -19,5 +19,5 @@ A "Virtual DOM" is typically used by frameworks like React.js to manipulating up
 This is how class attributes in JS work because the object returned is a list of elements.  Therefore, to access a single element, you need the bracket to specify the index in the list.  
 
 6. What is the difference between using addEventListener() and something like onClick() ? What are the advantages / disadvantages of both?
-
+Both functions can execute the same actions "on click"; however, onClick() only writes for one event. That means we can not have multiple onClick() statements because each one will be overridden.  An advantage to onClick() is that it works in JS and HTML unlike addEventListener() which only works in JS.  
 
